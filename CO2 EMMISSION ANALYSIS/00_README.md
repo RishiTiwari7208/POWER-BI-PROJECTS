@@ -13,4 +13,4 @@ This Power BI dashboard provides an interactive visualization of global CO₂ em
     . Geographical insights showing emission concentration on a world map
 
 ## 🖼️ Dashboard Preview
-<a href="./CO2%20EMMISSION.png"> <img src="https://github.com/RishiTiwari7208/POWER-BI-PROJECTS/blob/main/CO2%20EMMISSION.png" alt="World CO2 Emission Dashboard" width="850"/> </a>
+<a href="./CO2%20EMMISSION.png"> <img src="https://github.com/RishiTiwari7208/POWER-BI-PROJECTS/blob/main/CO2%20EMMISSION%20ANALYSIS/04_CO2%20EMMISSION.png" alt="World CO2 Emission Dashboard" width="850"/> </a>
